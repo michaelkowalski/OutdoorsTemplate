@@ -408,8 +408,8 @@ button:focus {
 }
 
 .section__more-linktext {
-	margin: 0 0.5rem 0 0;
 	line-height: 1;
+	text-align: center;
 }
 
 .icon--arrowlong {
